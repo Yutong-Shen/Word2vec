@@ -1,5 +1,5 @@
 # Word2vec
-Word2vec model and training with deep learning framework and Gensim building tools
+## Word2vec model and training with deep learning framework and Gensim building tools
 
 Corpus: Wikipedia corpus
 
